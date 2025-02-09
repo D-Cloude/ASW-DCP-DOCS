@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Documentation
+title: 목차
 permalink: /docs/
 ---
 
-# Documentation
+# 목차
 
-Welcome to the {{ site.title }} Documentation pages! Here you can quickly jump to a 
-particular page.
+{{ site.title }} 사이트에서 보실수 있는 문서를 나열해서 한번에 이동할수 있게 만든 사이트입니다.
 
 <div class="section-index">
     <hr class="panel-line">

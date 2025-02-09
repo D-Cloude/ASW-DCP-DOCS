@@ -14,30 +14,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Docsy Jekyll
-email: your-email@domain.com
-author: Dinosaur Avocado
+title: ASMT-DOCS
+email: lyw514549@gmail.com  
+author: INMD1
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  동의대학교 응용소프트웨어에서 사용되는 가상 실습 플랫폼 
+  문서입니다.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/docsy-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/site/" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://vsoch.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/vsoch/docsy-jekyll"
-github_user: "vsoch"
-github_repo: "docsy-jekyll"
+repo: "https://github.com/D-Cloude/ASW-PSMT-DOCS"
+github_user: "D-Cloude"
+github_repo: "ASW-PSMT-DOCS"
 github_branch: "master"
-
-# Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
 
 # These options are used to configure the locations of your version history when you want to serve versioned documents
 version_params:
