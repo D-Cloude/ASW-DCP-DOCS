@@ -1,4 +1,6 @@
-- title: About
-  url: about
-- title: Documentation
+
+- title: Getstart
+  url: getstart
+
+- title: VM DOCS
   url: docs
