@@ -1,6 +1,17 @@
 - title: 시작 단계
   url: getstart
   links:
+    - title: 회원가입/로그인
+      url: getstart/auth
+    - title: 서버 신청
+      url: getstart/
+    - title: 게시판
+      url: getstart/    
+    - title: 데시보드
+      url: getstart/
+      links:
+        - title: 회원가입/로그인
+          url: getstart/      
 - title: VM 문서
   url: docs
   links:
