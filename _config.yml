@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ASMT-DOCS
+title: ASMT/DCP-DOCS
 email: lyw514549@gmail.com  
 author: INMD1
 description: > # this means to ignore newlines until "baseurl:"
