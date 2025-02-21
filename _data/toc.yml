@@ -8,18 +8,29 @@
       children:
        - title: 페이지 이동 (공통)
          url: getstart/server_application#페이지-이동-공통
-       - title: 대여 정보 (공통)
-         url: getstart/server_application#대여-정보-(공통)
        - title: 서버 정보 (DCP)
-         url: getstart/server_application#서버-정보-(DCP)     
+         url: getstart/server_application#서버-정보-dcp 
        - title: 서버 정보 (ASW)
-         url: getstart/server_application#서버-정보-(ASW)     
+         url: getstart/server_application#서버-정보-asw   
+       - title: 서버 계정 정보 (공통)
+         url: getstart/server_application#서버-계정-정보-공통     
 
     - title: 게시판
       url: getstart/board 
+      children:
+        - title: 게시판 쓰기 
+          url: 
     - title: 데시보드
       url: getstart/bashboard   
 
 - title: VM 문서
   url: docs
   links:
+    - title: 서버 접근 하는 방법
+    - title: 미러 변경 방법
+    - title: Docker 설치법
+    - title: MY SQL 설치법
+    - title: 방화벽 설정하기
+    - title: Nignx 설정하기
+    - title: PHP 설정하기
+    - title: Node.js 설정하기
