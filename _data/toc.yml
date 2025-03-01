@@ -22,7 +22,12 @@
           url: 
     - title: 데시보드
       url: getstart/bashboard   
-
+      children:
+        - title: 데시보드 (ASW)
+          url: getstart/bashboard-ASW
+        - title: 데시보드 (DCP)
+          url: getstart/bashboard-dcp
+ 
 - title: VM 문서
   url: docs
   links:
