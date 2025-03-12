@@ -37,7 +37,7 @@
       url: docs/howtochangemirror
     - title: Docker 설치법
       url: docs/howtoinstalldocker
-    - title: MY SQL 설치법
+    - title: MySQL DB 설치법
       url: docs/howtoinstallmysql    
     - title: 방화벽 설정하기
       url: docs/howtosetufw   
