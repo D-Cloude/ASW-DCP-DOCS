@@ -10,7 +10,7 @@ description: Auth부분에 관련해 이용하는 방법을 설명 합니다.
 아래에 주소로 들어가거나 이 버튼을 누루고 이동해주세요.
 ![img](../assets/img/Auth_button.png)<br/>
 DCP: [https://asw-dcp.o-r.kr/site/auth_prcess](https://asw-dcp.o-r.kr/site/auth_prcess)<br/>
-ASW: (아직 건설중) <br/>
+ASW: [(아직 건설중](https://asw-psmt.p-e.kr/site/auth_prcess) <br/>
 
 ![img](../assets/img/Auth_active.png)<br/>
 그리고 페이지 들어가면 로그인쪽으로 활성화된 버튼을 회원가입쪽을 눌려서 활성화 해주세요.

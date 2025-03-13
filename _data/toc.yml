@@ -20,12 +20,12 @@
       children:
         - title: 게시판 쓰기 
           url: 
-    - title: 데시보드
+    - title: 대시보드
       url: getstart/bashboard   
       children:
-        - title: 데시보드 (ASW)
+        - title: 대시보드 (ASW)
           url: getstart/bashboard-ASW
-        - title: 데시보드 (DCP)
+        - title: 대시보드 (DCP)
           url: getstart/bashboard-dcp
  
 - title: VM 문서
