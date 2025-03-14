@@ -31,7 +31,9 @@ sudo systemctl status mysql
 
 ---
 
-# 2. MySQL 보안 설정 (`mysql_secure_installation`)  
+# 2. MySQL 보안 설정 (`mysql_secure_installation`) 
+
+{% include alert.html type="info" title="안내사항" content="해당 과정은 연습용으로 쓰이면 하지 않고 알아가는 정도로 해도됨니다. " %}
 
 MySQL 설치 후 보안 강화를 위해 초기 설정을 진행합니다.  
 
