@@ -1,33 +1,4 @@
-- title: 시작 단계
-  url: getstart
-  links:
-    - title: 회원가입/로그인
-      url: getstart/auth
-    - title: 서버 신청
-      url: getstart/server_application
-      children:
-       - title: 페이지 이동 (공통)
-         url: getstart/server_application#페이지-이동-공통
-       - title: 서버 정보 (DCP)
-         url: getstart/server_application#서버-정보-dcp 
-       - title: 서버 정보 (ASW)
-         url: getstart/server_application#서버-정보-asw   
-       - title: 서버 계정 정보 (공통)
-         url: getstart/server_application#서버-계정-정보-공통     
 
-    - title: 게시판
-      url: getstart/board 
-      children:
-        - title: 게시판 쓰기 
-          url: 
-    - title: 대시보드
-      url: getstart/bashboard   
-      children:
-        - title: 대시보드 (ASW)
-          url: getstart/bashboard-ASW
-        - title: 대시보드 (DCP)
-          url: getstart/bashboard-dcp
- 
 - title: VM 문서
   url: docs
   links:
