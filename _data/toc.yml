@@ -45,3 +45,5 @@
       url: docs/howtosetphp
     - title: Node.js 설정하기
       url: docs/howtoinstallnodejs
+    - title: Cloudflare Tunnel 연결
+      url: docs/howtoconnectcloudflare
